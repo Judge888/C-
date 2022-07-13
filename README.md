@@ -1,0 +1,4 @@
+# C-
+---
+- Believe yourself
+- study
